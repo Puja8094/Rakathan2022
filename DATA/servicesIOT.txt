@@ -1,0 +1,17 @@
+https://localhost:7081/api/Pollution/GetIotData?limit=100
+
+[
+  {
+    "co2InPpm": 135,
+    "eventEnqueuedUtcTime": "2022-07-23T13:09:32.159",
+    "localDateTime": "2022-07-23T13:09:32.159Z"
+  },
+  {
+    "co2InPpm": 106,
+    "eventEnqueuedUtcTime": "2022-07-23T12:50:20.578",
+    "localDateTime": "2022-07-23T12:50:20.578Z"
+  }
+]
+
+
+

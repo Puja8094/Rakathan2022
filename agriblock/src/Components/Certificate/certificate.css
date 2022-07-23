@@ -1,0 +1,71 @@
+
+.bold {
+  font-weight: bold;
+}
+
+.block {
+  display: block;
+}
+body {
+  padding: 20px 0;
+}
+.pm-certificate-container{
+  position: relative;
+  width: 730px;
+  height: 530px;
+  background-color: #479e14;
+  padding: 30px;
+  color: #333;
+  font-family: 'Open Sans', sans-serif;
+  box-shadow: 0 0 5px rgba(50, 122, 68, 0.5);
+  text-align: center;
+}
+.pm-certificate-container .outer-border{
+  width: 770px;
+  height: 570px;
+  position: absolute;
+  left: 50%;
+  margin-left: -385px;
+  top: 50%;
+  margin-top:-290px;
+  border: 2px solid #fff;
+}
+
+.pm-certificate-container .inner-border {
+  width: 725px;
+  height: 530px;
+  position: absolute;
+  left: 50%;
+  margin-left: -365px;
+  top: 50%;
+  margin-top:-265px;
+  border: 2px solid #fff;
+}
+.pm-certificate-container .pm-certificate-border {
+  position: relative;
+  
+  width: 720px;
+  height: 520px;
+  padding: 0;
+  border: 1px solid #E1E5F0;
+  background-color: rgba(255, 255, 255, 1);
+  background-image: none;
+  left: 50%;
+  margin-left: -360px;
+  top: 50%;
+  margin-top: -260px;
+}
+.pm-certificate-container .pm-certificate-border  .pm-certificate-block {
+  width: 650px;
+  height: 200px;
+  position: relative;
+  left: 50%;
+  margin-left: -325px;
+  top: 70px;
+  margin-top: 0;
+}
+
+.pm-certificate-container .pm-certificate-border .pm-certificate-title {
+  position: relative;
+  top: 40px;
+}

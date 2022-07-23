@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/agrochain/public/.env
+/OCR/.idea/inspectionProfiles
+/OCR/.idea

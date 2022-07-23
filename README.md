@@ -43,7 +43,23 @@ It provides a way for farmers to sell carbon credits in the form of NFT to indus
 
 ![8](https://user-images.githubusercontent.com/78801686/180593861-77c2fd70-a67d-4f64-8ce9-bfe3acf5bb16.png)
 
+## NFT VERIFIACTION
+![9](https://user-images.githubusercontent.com/78801686/180593992-cd013c55-f0b7-4189-8fa8-774f6e140102.png)
 
 
+## IOT 
+
+
+![10](https://user-images.githubusercontent.com/78801686/180594004-1678fd7d-8266-446f-8f5f-a9cccf0eaf0a.png)
+
+## Tech Stack
+⊷ React JS
+⊷ IPFS
+⊷ Solidity smart Contract
+⊷ Ethereum
+⊷ ESPB266 Arduino kit
+⊷ Azure IOT hub
+⊷ Meta Mask
+⊷ Ether.js
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">Agriblock</h1>
+<h1 align="center">AgriBlock</h1>
 
 <h3> Problem Statement</h3>
 

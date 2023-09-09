@@ -8,20 +8,23 @@
 <h3> Problem Statement</h3>
 
 
-The United States Environmental Protection Agency (EPA) estimates that 10% of CO2 is emitted by the Agri sector. On one hand, Agri companies have sustainable products and services to offer to the growers. On the other hand, without proper economic incentives, farmers are reluctant to adopt sustainable practices. Centralized platform business models have so far not succeeded in creating economic value for the farmers, even while the demand for a voluntary carbon market is increasing. What technologies and business models can enable financially incentivize farmers for implementing climate-smart practices? What are the ways the buyer has proof of authenticity? In what ways the participants including investors can derive economic value ?
-	
-<strong>AgriBlock </strong>is an NFT application Based on Ethereum Blockchain written in Solidity Smart Contract, and using the power of React Frontend, and ether.js to interact with the Smart Contract present in the Ethereum Blockchain, a user can register as a Framer in the application, with all relevant information, Upload & Mint (In IPFs), buy and Sell NFT, in the ArgoChain NFT marketplace. The Industries then can buy those NFTs from market place granting them carbon credits and also investing money in farmers so that they can adopt more sustainable farming practices.
+The agricultural sector is responsible for 10% of CO2 emissions, according to the United States Environmental Protection Agency (EPA). However, agricultural companies have the potential to offer sustainable products and services to farmers. The problem is that farmers are often reluctant to adopt sustainable practices without proper economic incentives. Centralized platform business models have not been successful in creating economic value for farmers. Meanwhile, the demand for a voluntary carbon market is increasing. The question is, what technologies and business models can financially incentivize farmers to implement climate-smart practices? What are the ways buyers can ensure the authenticity of carbon credits? And how can participants, including investors, derive economic value?
 
-It provides a way for farmers to sell carbon credits in the form of NFT to industrial buyers who needs to buy carbon credits in order to achieve sustainability goals, thus giving farmers money to invest in more sustainable farming practices, and a win-win situation for all, the Air Quality verification is done using IoT devices, thus acting as a verification mechanism to ensure, that money is invested by farmers to adopt more sustainable farming methods.
+AgriBock offers a potential solution to these challenges. It is an NFT application based on the Ethereum Blockchain, written in Solidity Smart Contract, and using the power of React Frontend and ether.js to interact with the Smart Contract present in the Ethereum Blockchain. With AgriBock, farmers can register on the platform with all relevant information, upload and mint their NFTs in IPFs, and buy and sell NFTs in the AgriBock NFT marketplace. These NFTs can then be purchased by industrial buyers, granting them carbon credits while also investing in farmers so they can adopt more sustainable farming practices.
 
+AgriBock provides a way for farmers to sell carbon credits in the form of NFTs to industrial buyers who need to buy carbon credits to achieve sustainability goals. This gives farmers money to invest in more sustainable farming practices, creating a win-win situation for all. Air Quality verification is done using IoT devices, serving as a verification mechanism to ensure that money is invested by farmers to adopt more sustainable farming methods.
+
+By leveraging NFTs, AgriBock enables the creation of a decentralized marketplace for carbon credits. It creates a transparent and secure platform for buying and selling carbon credits, while providing farmers with an incentive to adopt sustainable farming practices. With the help of IoT devices, the platform ensures that carbon credits are genuine, providing buyers with the proof of authenticity they need. Investors can also participate in the platform by purchasing NFTs and supporting sustainable farming practices.
+
+In conclusion, AgriBock offers a promising solution to the challenges of incentivizing farmers to adopt sustainable farming practices. By providing a decentralized marketplace for carbon credits and leveraging the power of NFTs, AgriBock creates economic value for farmers, buyers, and investors alike.
 
 ## Features
-- Farmer Registration.
-- Mint NFT for Cabon Credits using Verification from IoT Data to prove sustainable farming practice is adopted.
-- IoT Device data is Directly streamed to NFT for verification using Device ID and Azure IoT Hub.
-- User Dashboard to view all the NFT Minted, sold, and Purchased.
-- Customer/ Industries can buy NFT carbon credits to meet their ESG Goals, and remain Carbon neutral companies.
-- Money in form of Cryptocurrency is directly transferred to farmers without commission and middlemen, so they can invest the money in adopting more sustainable farming methods.
+- Farmer Registration: Farmers can register on AgriBock and provide all relevant information.
+- NFT Minting: Using IoT data verification, NFTs are minted for carbon credits to prove sustainable farming practices.
+- IoT Verification: IoT devices directly stream data to the NFT using Device ID and Azure IoT Hub.
+- User Dashboard: Farmers can view all the NFTs that have been minted, sold, and purchased through their user dashboard.
+- Carbon Credits: Customer/Industries can buy NFT carbon credits to meet their ESG goals and become carbon neutral companies.
+- Direct Cryptocurrency Transfer: Money in the form of cryptocurrency is directly transferred to farmers without commission or middlemen, allowing them to invest in adopting more sustainable farming methods.
 
 ## Main Page
 ![2](https://user-images.githubusercontent.com/78801686/180593675-017e9bcf-acdd-4103-9dd6-e93a96eb9a0e.jpeg)
